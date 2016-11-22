@@ -13,6 +13,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 
 gem 'react-rails', '~> 1.9'
+gem 'bootstrap', '~> 4.0.0.alpha5'
 
 group :development, :test do
   gem 'byebug', platform: :mri
